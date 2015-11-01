@@ -25,18 +25,19 @@ OTHER_FILES += ads_fragment.vert \
     es_ads_fragment.vert
 
 CONFIG      += C++11
-HEADERS += keypress.h \
+HEADERS += object.h \
 	openglwindow.h \
 	modelloader.h \
-	modelwindow.h \
-	modelwindow_gl_2.h \
-	modelwindow_gl_3_3.h 
+	viewport.h \
+	viewport_gl_2.h \
+	viewport_gl_3_3.h \
+	model.h
 
 SOURCES += main.cpp \
-	keypress.cpp \
+	object.cpp \
 	openglwindow.cpp \
 	modelloader.cpp \ 
-	modelwindow.cpp \ 
-	modelwindow_gl_2.cpp \
-	modelwindow_gl_3_3.cpp
+	viewport.cpp \ 
+	viewport_gl_2.cpp \
+	viewport_gl_3_3.cpp
 
