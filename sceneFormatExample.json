@@ -1,0 +1,28 @@
+{
+  "Assets": [{
+    "Asset00": "ViewModel Class Instance 1"
+  }, {
+    "Asset01": "ViewModel Class Instance 2"
+  }],
+  "Scene": [{
+    "Asset": "Asset00",
+    "Location": ["x", "y", "z"],
+    "Rotation": ["x", "y", "x"],
+    "BoundingContainer": {}
+  }, {
+    "Asset": "Asset00",
+    "Location": ["x", "y", "z"],
+    "Rotation": ["x", "y", "x"],
+    "BoundingContainer": {}
+  }, {
+    "Asset": "Asset01",
+    "Location": ["x", "y", "z"],
+    "Rotation": ["x", "y", "x"],
+    "BoundingContainer": {}
+  }, {
+    "Asset": "Asset01",
+    "Location": ["x", "y", "z"],
+    "Rotation": ["x", "y", "x"],
+    "BoundingContainer": {}
+  }]
+}
