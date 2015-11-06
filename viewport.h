@@ -64,7 +64,7 @@ private:
 
   void stepAxis(bool, bool, float*);
 
-  boost::scoped_ptr< std::Vector< Model > > models;
+  boost::scoped_ptr< std::vector< Model > > models;
 
   boost::scoped_ptr<Force> UpForce;
   boost::scoped_ptr<Force> ForwardForce;

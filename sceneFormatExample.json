@@ -26,3 +26,28 @@
     "BoundingContainer": {}
   }]
 }
+
+{
+
+  "Scene": [{
+    "Asset": {},
+    "Location": ["x", "y", "z"],
+    "Rotation": ["x", "y", "x"],
+    "BoundingContainer": {}
+  }, {
+    "Asset": {},
+    "Location": ["x", "y", "z"],
+    "Rotation": ["x", "y", "x"],
+    "BoundingContainer": {}
+  }, {
+    "Asset": {},
+    "Location": ["x", "y", "z"],
+    "Rotation": ["x", "y", "x"],
+    "BoundingContainer": {}
+  }, {
+    "Asset": {},
+    "Location": ["x", "y", "z"],
+    "Rotation": ["x", "y", "x"],
+    "BoundingContainer": {}
+  }]
+}
